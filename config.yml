@@ -1,6 +1,6 @@
 languageCode:           "en"
-title:                  "Bootstrap"
-baseURL:                "https://v5.getbootstrap.com"
+title:                  "PHP Sample"
+baseURL:                "https://zeeforumcompany.github.io/php-sample"
 enableInlineShortcodes: true
 
 module:
