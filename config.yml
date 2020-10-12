@@ -8,10 +8,10 @@ module:
     - source:           build
       target:           content
     - source:           build/static/css/2.f3cffc9e.chunk.css
-      target:           /static/css/2.f3cffc9e.chunk.css
+      target:           https://zeeforumcompany.github.io/static/css/2.f3cffc9e.chunk.css
     - source:           build/static/css/main.5f361e03.chunk.css
-      target:           /static/css/main.5f361e03.chunk.css
+      target:           https://zeeforumcompany.github.io/static/css/main.5f361e03.chunk.css
     - source:           build/static/js/2.0dd7b655.chunk.js
-      target:           /static/js/2.0dd7b655.chunk.js
+      target:           https://zeeforumcompany.github.io/static/js/2.0dd7b655.chunk.js
     - source:           build/static/js/main.bca22e11.chunk.js
-      target:           /static/js/main.bca22e11.chunk.js
+      target:           https://zeeforumcompany.github.io/static/js/main.bca22e11.chunk.js
