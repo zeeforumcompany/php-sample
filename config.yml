@@ -7,3 +7,6 @@ module:
   mounts:
     - source:           web
       target:           build/index.html
+      
+   - source:           404
+     target:           404.html
