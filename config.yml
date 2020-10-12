@@ -1,0 +1,9 @@
+languageCode:           "en"
+title:                  "Bootstrap"
+baseURL:                "https://v5.getbootstrap.com"
+enableInlineShortcodes: true
+
+module:
+  mounts:
+    - source:           web
+      target:           build/index.html
