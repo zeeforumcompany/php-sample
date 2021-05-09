@@ -32,5 +32,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.greentv.stream
-        username: zeeforumcompany
+        username: zeeforumcompany@greentv.stream
         password: ${{ secrets.FTP_SECRET_TOKEN }}
