@@ -27,7 +27,7 @@ class Counter extends Component {
 						onClick={() =>
 							this.props.onIncrement(this.props.counter)
 						}
-						className="btn btn-secondary btn-sm mr-2"
+						className="btn btn-success btn-sm mr-2"
 					>
 						<FontAwesomeIcon icon="plus" />
 					</button>
@@ -36,7 +36,7 @@ class Counter extends Component {
 						onClick={() =>
 							this.props.onDecrement(this.props.counter)
 						}
-						className="btn btn-secondary btn-sm"
+						className="btn btn-warning btn-sm"
 						disabled={this.props.counter.value <= 0}
 					>
 						<FontAwesomeIcon icon="minus" />
