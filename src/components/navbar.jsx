@@ -5,7 +5,7 @@ const NavBar = ({ totalCounter }) => {
 	return (
 		<nav className="navbar navbar-light bg-light">
 			<a href="/home" className="navbar-brand">
-				Zee Counter App&nbsp;
+				Counter App&nbsp;
 				<span className="badge badge-pill badge-secondary">
 					{totalCounter}
 				</span>
